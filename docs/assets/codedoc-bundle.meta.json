@@ -68,6 +68,11 @@
   ],
   "components": [
     {
+      "name": "ToCPrevNext",
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "Mn4pScIkvjgoqiM03lAumQ=="
+    },
+    {
       "name": "GithubSearch",
       "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/misc/github/search.js",
       "hash": "h92AjB8AVId5hYmd2mcSzg=="
@@ -81,6 +86,21 @@
       "name": "DarkModeSwitch",
       "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
       "hash": "umeDvQ/nUo+FvY1K3dEYUA=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/transport/config.js",
+      "hash": "uhkzSXNRC1NdTH7qS82QZA=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "+rp6bXAOeMVjs6zXeHoDzg=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "IKIn7iezY+paLzZLM1EC5g=="
     }
   ],
   "renderer": {
