@@ -4,6 +4,9 @@ import { theme } from './theme';
 
 
 export const config = configuration({
+  dest: {
+    namespace: 'codedoc-boilerplate'
+  },
   theme,
   page: {
     title: {
