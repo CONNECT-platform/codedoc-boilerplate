@@ -5,7 +5,7 @@ import { theme } from './theme';
 
 export const config = configuration({
   dest: {
-    namespace: 'codedoc-boilerplate'
+    namespace: '/codedoc-boilerplate'
   },
   theme,
   page: {
