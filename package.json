@@ -1,0 +1,28 @@
+{
+  "name": "@codedoc/boilerplate",
+  "version": "1.0.0",
+  "description": "starting point for codedoc projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev -T --watch docs/md,.codedoc .codedoc/serve",
+    "build": "ts-node-dev .codedoc/build/index.tsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CONNECT-platform/codedoc-boilerplate.git"
+  },
+  "author": "Eugene Ghanizadeh Khoub <ghanizadeh.eugene@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CONNECT-platform/codedoc-boilerplate/issues"
+  },
+  "homepage": "https://github.com/CONNECT-platform/codedoc-boilerplate#readme",
+  "dependencies": {
+    "@codedoc/core": "0.0.3"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.8.3"
+  }
+}
