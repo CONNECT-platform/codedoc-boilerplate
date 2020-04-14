@@ -12,21 +12,21 @@ import { loadDeferredIFrames } from '/Users/eugeneghanizadeh/Documents/projects/
 import { smoothLoading } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js';smoothLoading();
 import { tocHighlight } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js';postNavSearch();
+import { TabSelector } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js';
 import { ToCPrevNext } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js';
 import { GithubSearch } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/misc/github/search.js';
 import { ToCToggle } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js';
 import { ConfigTransport } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/transport/config.js';
-import { TabSelector } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js';
 import { CollapseControl } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js';
 
 const components = {
+  '+rp6bXAOeMVjs6zXeHoDzg==': TabSelector,
   'Mn4pScIkvjgoqiM03lAumQ==': ToCPrevNext,
   'h92AjB8AVId5hYmd2mcSzg==': GithubSearch,
   '6QCObElznTHQjOv77cODkg==': ToCToggle,
   'umeDvQ/nUo+FvY1K3dEYUA==': DarkModeSwitch,
   'uhkzSXNRC1NdTH7qS82QZA==': ConfigTransport,
-  '+rp6bXAOeMVjs6zXeHoDzg==': TabSelector,
   'IKIn7iezY+paLzZLM1EC5g==': CollapseControl
 };
 
