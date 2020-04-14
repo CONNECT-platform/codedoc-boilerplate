@@ -35,19 +35,19 @@ renderer.render(
 
 The following syntax styles are supported:
 
-- 
+
 ```go
 "// --> standard one-liner" // --> standard one-liner
 ```
-- 
+
 ```java
 "/* --> standard multi-liner */" /* --> standard multi-liner */
 ```
-- 
+
 ```py
 "# --> python/bash comments" # --> python/bash comments
 ```
-- 
+
 ```md
 <‌!--> html comments --> <!--> html comments -->
 ```
@@ -117,19 +117,19 @@ You can also use these references to refer to another tab in a tab-component:
 
 Similar syntax styles to hints are supported for references as well:
 
-- 
+
 ```js
 "// @‌see [random stuff](https://www.randomlists.com/things)" // @see [random stuff](https://www.randomlists.com/things)
 ```
-- 
+
 ```go
 "/* @‌see https://google.com */" /* @see https://google.com */
 ```
-- 
+
 ```python
 "#@see https://github.com" #@see https://github.com
 ```
-- 
+
 ```html
 <!-- @‌see [the first page](/) --> <!-- @see [the first page](/) -->
 ```
