@@ -4,8 +4,8 @@
   "description": "starting point for codedoc projects",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev -T --watch docs/md,.codedoc .codedoc/serve",
-    "build": "ts-node .codedoc/build",
+    "start": "ts-node-dev --project .codedoc/tsconfig.json -T --watch docs/md,.codedoc .codedoc/serve",
+    "build": "ts-node --project .codedoc/tsconfig.json .codedoc/build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
