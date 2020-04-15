@@ -3,7 +3,7 @@ import { configuration } from '@codedoc/core';
 import { theme } from './theme';
 
 
-export const config = configuration({
+export const config = /*#__PURE__*/configuration({
   theme,
   dest: {
     namespace: '/codedoc-boilerplate'

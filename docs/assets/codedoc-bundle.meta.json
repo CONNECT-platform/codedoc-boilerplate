@@ -68,16 +68,6 @@
   ],
   "components": [
     {
-      "name": "TabSelector",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
-      "hash": "+rp6bXAOeMVjs6zXeHoDzg=="
-    },
-    {
-      "name": "CollapseControl",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
-      "hash": "IKIn7iezY+paLzZLM1EC5g=="
-    },
-    {
       "name": "ToCPrevNext",
       "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
       "hash": "Mn4pScIkvjgoqiM03lAumQ=="
@@ -101,6 +91,16 @@
       "name": "ConfigTransport",
       "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/transport/config.js",
       "hash": "uhkzSXNRC1NdTH7qS82QZA=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "+rp6bXAOeMVjs6zXeHoDzg=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "IKIn7iezY+paLzZLM1EC5g=="
     }
   ],
   "renderer": {
