@@ -64,11 +64,6 @@
       "name": "postNavSearch",
       "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
       "hash": "eqZRrzlPV99SQ53Wn8JYHQ=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es5/serve/reload.js",
-      "hash": "cM81D3QpjnEB56ipxSUkFQ=="
     }
   ],
   "components": [
