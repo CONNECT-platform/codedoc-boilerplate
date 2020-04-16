@@ -2,8 +2,8 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "rh0d6P9zlo9B2Pc5KP70Tg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "WZrNqtbCtZm+lUmj4yLHWg=="
     },
     {
       "name": "installTheme",
@@ -12,100 +12,100 @@
     },
     {
       "name": "codeSelection",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "iuH4kc6Kud8abRoT0tCXWQ=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "93TFiGar2HHpY5MBFPHNNQ=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "fWXTMKnxlWZyT9d7NDnVmg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "uCmv40UArBuv6SzxzYI0Pg=="
     },
     {
       "name": "initHintBox",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "RcUFxee9Th6qkT7TBylUAQ=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "mkrVx6rQIu5IRxul9PJi4w=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "U3hw6EDIhUKGwjEeJRRq1A=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "qPdqhIjmG9Fsl0YmFvor+w=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "pi18bjxD0Oy52D8hcFfevw=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "NAWd1QwdkEP1fDKwmvJO1w=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "NlXcVmKFmVF+YA+orrQgMw=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "5yGpmEtWvJXlJT/zYcmFQw=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "ELKgLPmIWlthL82sQPArpw=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "z4sFIxmDhVVvoCLd6EpFHg=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "+64jHZmgy+o/g05lPtfcaQ=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "O2mq/ZS3S/YhFq0KOWCCZA=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "Pww6b9MBrV7ycxKXG4RQLg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "+wIL8cdsQ+Rc3Ed9nQ3wIw=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "RiyCWg68GFd86ILoZSce+Q=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "N+EYyuznBl87ALYY1kOz8A=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "eqZRrzlPV99SQ53Wn8JYHQ=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "QUCjC+NcXTrfdwtCBc39FQ=="
     }
   ],
   "components": [
     {
       "name": "ToCPrevNext",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "Mn4pScIkvjgoqiM03lAumQ=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "BsTJUKYCtsqMqMIVMgp9Og=="
     },
     {
       "name": "GithubSearch",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
-      "hash": "h92AjB8AVId5hYmd2mcSzg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "ydmLi92ULtnY0HTyT+4QAQ=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "6QCObElznTHQjOv77cODkg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "+HVUa12UPWz50rBZ/bkIag=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "umeDvQ/nUo+FvY1K3dEYUA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "Hlcq5x15FRKhrnNjyjiIfw=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "uhkzSXNRC1NdTH7qS82QZA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "tW/40an18Oru7qhlg+vhLw=="
     },
     {
       "name": "TabSelector",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
-      "hash": "+rp6bXAOeMVjs6zXeHoDzg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "rUHezQ/PRD6Oih/9tF96BQ=="
     },
     {
       "name": "CollapseControl",
-      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "IKIn7iezY+paLzZLM1EC5g=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "Tsc7PUTPjUuqMmKTMal3fA=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "0Vy16Aq80cvEVbk+u+OIsQ=="
+    "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "cRTuV4/E8y5b63ViN+Ah/w=="
   }
 }

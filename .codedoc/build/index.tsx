@@ -5,4 +5,11 @@ import { installTheme$ } from './theme';
 import { content } from './content';
 
 
-build(config, content, installTheme$);
+build(config, content, installTheme$, {
+  resolve: {
+    modules: ['.codedoc/node_modules']
+  },
+  resolveLoader: {
+    modules: ['.codedoc/node_modules']
+  }
+});

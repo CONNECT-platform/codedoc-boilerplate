@@ -8,4 +8,11 @@ import { installTheme$ } from './build/theme';
 
 const root = join(__dirname, '../');
 
-serve(root, config, content, installTheme$);
+serve(root, config, content, installTheme$, {
+  resolve: {
+    modules: ['.codedoc/node_modules']
+  },
+  resolveLoader: {
+    modules: ['.codedoc/node_modules']
+  }
+});
