@@ -4,7 +4,8 @@
   "description": "starting point for codedoc projects",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --project .codedoc/tsconfig.json -T --watch docs/md,.codedoc .codedoc/serve",
+    "start": "ts-node -T --project .codedoc/tsconfig.json .codedoc/watch",
+    "serve": "ts-node -T --project .codedoc/tsconfig.json .codedoc/serve",
     "build": "ts-node --project .codedoc/tsconfig.json .codedoc/build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +20,7 @@
   },
   "homepage": "https://github.com/CONNECT-platform/codedoc-boilerplate#readme",
   "dependencies": {
-    "@codedoc/core": "^0.1.8"
+    "@codedoc/core": "^0.1.9"
   },
   "devDependencies": {
     "ts-node": "^8.8.2",
