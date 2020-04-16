@@ -1,7 +1,7 @@
 import { build } from '@codedoc/core';
 
-import { config } from '../config';
-import { installTheme$ } from './theme';
+import { config } from './config';
+import { installTheme$ } from './content/theme';
 import { content } from './content';
 
 

@@ -1,6 +1,6 @@
 import { getRenderer } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js';
 import { initJssCs } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js';initJssCs();
-import { installTheme } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/build/theme.ts';installTheme();
+import { installTheme } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/content/theme.ts';installTheme();
 import { codeSelection } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js';codeSelection();
 import { sameLineLengthInCodes } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js';sameLineLengthInCodes();
 import { initHintBox } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js';initHintBox();

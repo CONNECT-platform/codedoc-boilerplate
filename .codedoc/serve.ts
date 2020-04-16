@@ -2,8 +2,8 @@ import { join } from 'path';
 import { serve } from '@codedoc/core';
 
 import { config } from './config';
-import { content } from './build/content';
-import { installTheme$ } from './build/theme';
+import { content } from './content';
+import { installTheme$ } from './content/theme';
 
 
 const root = join(__dirname, '../');
