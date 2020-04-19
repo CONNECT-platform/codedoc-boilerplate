@@ -1,7 +1,12 @@
 # Markdown Cheat Sheet
 
 Checkout `docs/md/docs/cheat-sheet.md` to see the markdown behind this page. Note that this is only
-a cheat-sheet, for a more complete list of specific markdown features of codedoc, check out the official docs.
+a cheat-sheet, for a more complete list of specific markdown features of codedoc, check out the [official docs](https://codedoc.cc).
+
+> :Buttons
+> > :Button label=Official Docs, url=https://codedoc.cc
+
+<br>
 
 > ⚠️⚠️
 > Do not forget to **REMOVE THIS PAGE** from your actual documentation!

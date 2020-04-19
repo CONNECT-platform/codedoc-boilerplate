@@ -1,8 +1,13 @@
 # Code Features
 
 This is a quick overview of codedoc specific features at your disposal in markdown
-`code` elements. For a complete list, please checkout the official documentation.
+`code` elements. For a complete list, please checkout the [official documentation](https://codedoc.cc).
 You can also take a look at `docs/md/docs/code-features.md` to see the markdown behind this page.
+
+> :Buttons
+> > :Button label=Official Docs, url=https://codedoc.cc
+
+<br>
 
 > ⚠️⚠️
 > Do not forget to **REMOVE THIS PAGE** from your actual documentation!
