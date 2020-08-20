@@ -10,7 +10,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Codedoc Boilerplate'
+      base: 'Codedoc Boilerplate [PLACEHOLDER]'
     }
   },
   misc: {
