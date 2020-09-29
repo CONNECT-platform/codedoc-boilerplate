@@ -13,6 +13,7 @@ import { smoothLoading } from '/Users/eugeneghanizadeh/Documents/projects/connec
 import { tocHighlight } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
+import { gatherFootnotes } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
 import { ToCPrevNext } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { GithubSearch } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';

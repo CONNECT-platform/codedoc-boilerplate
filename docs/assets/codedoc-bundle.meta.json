@@ -69,6 +69,11 @@
       "name": "copyLineLinks",
       "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
       "hash": "YUES13tfwKEDjWU6YctimA=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "uj8QvjmlnWpbGjXXAPH4Rw=="
     }
   ],
   "components": [
