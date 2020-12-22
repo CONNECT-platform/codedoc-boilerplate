@@ -20,5 +20,5 @@ services:
     # but exclude `/home/blog/.codedoc/node_modules" (since the container env should install its own modules).
     #
     volumes:
-      - ".:/home/docs"
+      - "..:/home/docs"
       - "/home/docs/.codedoc/node_modules/"
