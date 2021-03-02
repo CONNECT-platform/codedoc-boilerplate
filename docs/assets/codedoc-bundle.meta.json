@@ -2,125 +2,120 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "PpJv324bfVsKQmMcgHQbWA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "WZrNqtbCtZm+lUmj4yLHWg=="
     },
     {
       "name": "installTheme",
-      "filename": "/home/docs/.codedoc/content/theme.ts",
-      "hash": "jkhlo2RwOARn6Ij28BS8Cg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/content/theme.ts",
+      "hash": "3lVFFrmOxKWPeMAAP1jvmA=="
     },
     {
       "name": "codeSelection",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "ixdDCpTbzp9Y5veIqLj2yg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "93TFiGar2HHpY5MBFPHNNQ=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "T+7nYdlBiVWPUTK/fQqZBA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "uCmv40UArBuv6SzxzYI0Pg=="
     },
     {
       "name": "initHintBox",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "NruLwnJXZdtDJS3yCyaHjA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "mkrVx6rQIu5IRxul9PJi4w=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "Ra9TRoHIHgAtG5p8n0LOtw=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "qPdqhIjmG9Fsl0YmFvor+w=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "cvyA9Fj8TWdF0tmBILKBJA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "NAWd1QwdkEP1fDKwmvJO1w=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "eA1jYKJnclwFtbm6TY9itQ=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "5yGpmEtWvJXlJT/zYcmFQw=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "yo3x/lsbLobpq3pi4s6ahA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "z4sFIxmDhVVvoCLd6EpFHg=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "xraSjUuHdQVT5NmpE/oGNA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "O2mq/ZS3S/YhFq0KOWCCZA=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "GsIF6yN7ujz7TcVGlskLhA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "+wIL8cdsQ+Rc3Ed9nQ3wIw=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "DncQH2zOZLJ52j+U1NsIvA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "N+EYyuznBl87ALYY1kOz8A=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "sotjsCY6gWdX4tLE1qJV4w=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "QUCjC+NcXTrfdwtCBc39FQ=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
-      "hash": "Tdq7ghQGhmqW4v0ANR12Rw=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "YUES13tfwKEDjWU6YctimA=="
     },
     {
       "name": "gatherFootnotes",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
-      "hash": "0/cwaboY6aECTRMkBWOHVA=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "iZ9bKbLCDsfuT1TzjTuyqA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "uj8QvjmlnWpbGjXXAPH4Rw=="
     }
   ],
   "components": [
     {
       "name": "ToCPrevNext",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "qhuplcJc47QY3vbKNk68HA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "BsTJUKYCtsqMqMIVMgp9Og=="
     },
     {
       "name": "GithubSearch",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
-      "hash": "vucCCXOHJVs2GEIhev3xCg=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "ydmLi92ULtnY0HTyT+4QAQ=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "4Tbui9pAI06pKAq03i1ZWA=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "+HVUa12UPWz50rBZ/bkIag=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "5n+fpiNX3nJmHpD6mF8P6Q=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "Hlcq5x15FRKhrnNjyjiIfw=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "HG9aMboQXjPQcIBMdzl5JQ=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "tW/40an18Oru7qhlg+vhLw=="
     },
     {
       "name": "TabSelector",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
-      "hash": "xg2E7DON39xuuxD5JFN5AQ=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "rUHezQ/PRD6Oih/9tF96BQ=="
     },
     {
       "name": "CollapseControl",
-      "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "BYklf1Uak9DnooeA/EOP4Q=="
+      "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "Tsc7PUTPjUuqMmKTMal3fA=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/home/docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "e+/8/toF9CAopVaLgo8zdQ=="
+    "filename": "/Users/eugeneghanizadeh/Documents/projects/connect/codedoc-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "cRTuV4/E8y5b63ViN+Ah/w=="
   }
 }
